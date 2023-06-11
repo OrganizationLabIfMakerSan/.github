@@ -2,7 +2,7 @@
 
 </br>
 <div align="center">
-<code><img alt="Logo" height="300" width="300" src="https://github.com/OrganizationLabIfMakerSan/.github/blob/main/profile/img/logoIfMakerSanTrnasp.png"></img></code>
+<code><img alt="Logo" src="https://github.com/OrganizationLabIfMakerSan/.github/blob/main/profile/img/09%20Laboratorio%20IF%20Maker%20SAN%20horizontal.png"></img></code>
 </div>
 
 </br><div align="center">
